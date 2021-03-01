@@ -87,6 +87,11 @@ const Experience = () => {
                                     <br />
                                     <strong>Duration:</strong> Aug 2019 - Present
                                     <br/>
+                                    <strong> Description </strong>
+                                    <ul className="text-left">
+                                        <li>Learned leadership qualities</li>
+                                        <li>Management skills, presentation skills, and organize events.</li>
+                                    </ul>
                                 </Card.Text>
                             </div>
                         </Card.Body>
